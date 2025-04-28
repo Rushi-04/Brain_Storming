@@ -15,6 +15,7 @@ int sum(int n)
 	return answer;
 }
 
+
 int main() {
 	// write your code here
 	int num = 100;
