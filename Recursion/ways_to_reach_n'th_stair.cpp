@@ -17,7 +17,6 @@ class Solution{
         }
 };
 
-
 int main()
 {
     // I want to call the function countWays
