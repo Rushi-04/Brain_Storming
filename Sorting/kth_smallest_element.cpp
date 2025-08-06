@@ -14,7 +14,7 @@ class Solution {
             {
                 swap(a[j], a[i]);  
                 j++;
-            }
+            }  
         } 
         swap(a[j], a[end]);
         return j;
