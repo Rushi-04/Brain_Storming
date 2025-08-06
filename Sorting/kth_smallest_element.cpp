@@ -12,7 +12,7 @@ class Solution {
         {
             if(a[i] < pivotElement)
             {
-                swap(a[j], a[i]);
+                swap(a[j], a[i]);  
                 j++;
             }
         } 
